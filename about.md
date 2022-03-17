@@ -24,22 +24,22 @@ This theme comes in two color variations. The default is set to the `light` them
 
 ## Installation
 
-Add this line to your Jekyll site's Gemfile:
+Add this line to your site's Gemfile:
 
 ```ruby
-gem "jekyll-athena"
+gem "Cyberlizard"
 ```
 
-And add this line to your Jekyll site `config.yml`:
+And add this line to your site `config.yml`:
 
 ```yaml
-theme: jekyll-athena
+theme: Cyberlizard
 ```
 
 And then execute:
 
-    $ bundle
+    $ bundle Cyberlizard
 
 Or install it yourself as:
 
-    $ gem install jekyll-athena
+    $ gem install Cyberlizard

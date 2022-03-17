@@ -1,6 +1,6 @@
-- title: Home
-  url: /
-- title: About
+- title: Начало
+  url: /home
+- title: За мен
   url: /about
-- title: Writing
-  url: /writing
+- title: Наоколо
+  url: /around 

@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Моят сайт 
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+*My furst theme 
 
 

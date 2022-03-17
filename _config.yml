@@ -1,13 +1,13 @@
 
 # SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: My furst Theme
+description: A typographic theme.
 
 # social
-social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+social_link: 
+social_username: Cyberlizard
+github_repo: Cyberlizard # the GitHub repo name for your project
+github_username: Cyberlizard
 theme_color: black
 
 # Theme
