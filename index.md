@@ -1,10 +1,11 @@
 ---
 layout: home
-permalink: "/"
-title: Моят сайт 
+permalink: /
+title: My furst theme
 
 ---
 
-*My furst theme 
+![2022-03-04-299388.jpeg](https://cyberlizard.github.io/cyberstak/assets/2022-03-04-299388.jpeg)
+ 
 
 
